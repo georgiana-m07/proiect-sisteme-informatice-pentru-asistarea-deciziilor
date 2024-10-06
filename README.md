@@ -16,7 +16,3 @@ CREATE TABLE DEPARTAMENTE_pr (
   nume_departament VARCHAR(50)
 );
 
-### 2. Data Warehouse
-The data warehouse was built by centralizing information for faster access. This involved creating dimension and fact tables like DimTimp, DimPlata, and FactContracte.
-Key SQL analyses:
-- **Contract Analytics** based on payment type and supplier were performed using various SQL queries.

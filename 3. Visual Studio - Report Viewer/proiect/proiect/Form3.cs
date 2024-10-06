@@ -26,7 +26,6 @@ namespace proiect
         {
             // TODO: This line of code loads data into the 'DataSet2.DATE_pr' table. You can move, or remove it, as needed.
             this.DATE_prTableAdapter.Fill(this.DataSet2.DATE_pr, Convert.ToInt32(textBox1.Text));
-
             this.reportViewer1.RefreshReport();
         }
 
