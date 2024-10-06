@@ -58,11 +58,14 @@ Additional data processing was performed in MS PowerPivot with a focus on defini
 ![image](https://github.com/user-attachments/assets/bbc16934-092e-40c2-a377-1ab5dd5ae763)
 **Description:** Diagram showing the relationships between tables in SQL Server.
 
+
 ![image](https://github.com/user-attachments/assets/237d0c75-3b3b-4866-8f3f-0ed500b95788)
+
 **Description:** Complete view of the DEPARTAMENTE_pr table showing department details.
 
 ### 2. Data Warehouse
 ![image](https://github.com/user-attachments/assets/e2152682-6e05-4305-a5ed-1a4e9483895a)
+
 **Description:** View of the FactContracte table showing contract data for analysis.
 
 ### 3. Power BI Integration
